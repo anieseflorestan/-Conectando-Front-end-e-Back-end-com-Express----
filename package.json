@@ -1,0 +1,25 @@
+{
+  "name": "-conectando-front-end-e-back-end-com-express----",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anieseflorestan/-Conectando-Front-end-e-Back-end-com-Express----.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/anieseflorestan/-Conectando-Front-end-e-Back-end-com-Express----/issues"
+  },
+  "homepage": "https://github.com/anieseflorestan/-Conectando-Front-end-e-Back-end-com-Express----#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "pg": "^8.23.0"
+  }
+}
